@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 Nov 2023 19:59:45 at https://slimhamdi.net/tunis-tailwind/demos/light.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://slimhamdi.net/tunis-tailwind/demos/light.html -O1 "C:\My Web Sites\portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:00:19	Error: 	"Not Found" (404) at link https://slimhamdi.net/tunis-tailwind/demos/about.html (from https://slimhamdi.net/tunis-tailwind/demos/light.html)
+20:00:19	Error: 	"Not Found" (404) at link https://slimhamdi.net/tunis-tailwind/demos/blog-post.html (from https://slimhamdi.net/tunis-tailwind/demos/light.html)
+20:00:19	Warning: 	File not parsed, looks like binary: https://slimhamdi.net/tunis-tailwind/demos/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+20:00:26	Error: 	"Not Found" (404) at link https://slimhamdi.net/tunis-tailwind/demos/assets/img/slider/1.jpg (from https://slimhamdi.net/tunis-tailwind/demos/assets/css/style.css)
+20:00:26	Error: 	"Not Found" (404) at link https://slimhamdi.net/tunis-tailwind/demos/assets/img/subscribe/dots.jpg (from https://slimhamdi.net/tunis-tailwind/demos/assets/css/style.css)
+20:00:26	Error: 	"Not Found" (404) at link https://slimhamdi.net/tunis-tailwind/demos/assets/img/testimonials/bg-client.png (from https://slimhamdi.net/tunis-tailwind/demos/assets/css/style.css)
+20:00:26	Error: 	"Not Found" (404) at link https://slimhamdi.net/tunis-tailwind/demos/assets/img/slider/2.jpg (from https://slimhamdi.net/tunis-tailwind/demos/assets/css/style.css)
+20:00:26	Error: 	"Not Found" (404) at link https://slimhamdi.net/tunis-tailwind/demos/assets/img/testimonials/bg-client-dark.png (from https://slimhamdi.net/tunis-tailwind/demos/assets/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 41 seconds : 72 links scanned, 64 files written (3692602 bytes overall) [3379761 bytes received at 82433 bytes/sec], 430074 bytes transferred using HTTP compression in 27 files, ratio 22%, 18.0 requests per connection
+(7 errors, 1 warnings, 0 messages)
